@@ -1,0 +1,1 @@
+iOS app that acts as a solver for the game wordle. Allows the user to record any previous guesses and the clues they got about the letters in those guesses (right letter, right place, not present) then uses all the information it knows to guess the most likely word from the wordle dictionary.
